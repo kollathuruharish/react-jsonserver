@@ -1,0 +1,84 @@
+{
+  "admin": [
+    {
+      "fname": "Kalyan",
+      "lname": "Kumar",
+      "email": "kalyan20@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "users": [
+    {
+      "fname": "Harish",
+      "lname": "Kumar",
+      "username": "Hari",
+      "email": "harish21@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fname": "Lokesh",
+      "lname": "SD",
+      "username": "Loki",
+      "email": "loki324@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "fname": "Saranya",
+      "lname": "J",
+      "username": "Saranya",
+      "email": "saranyaakka@gmail.com",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "districts": [
+    {
+      "id": 4,
+      "districtName": "Visakhapatnam",
+      "constituencies": [
+        "Araku",
+        "Paderu",
+        "Pendurthi"
+      ],
+      "isAddcont": true
+    },
+    {
+      "id": 5,
+      "districtName": "Anakapalli",
+      "constituencies": []
+    },
+    {
+      "id": 6,
+      "districtName": "Kona Seema ",
+      "constituencies": []
+    },
+    {
+      "id": 7,
+      "districtName": "East Godavari ",
+      "constituencies": []
+    },
+    {
+      "id": 8,
+      "districtName": "West Godavari ",
+      "constituencies": []
+    },
+    {
+      "id": 9,
+      "districtName": "Eluru",
+      "constituencies": [
+        "Eluru"
+      ]
+    },
+    {
+      "districtName": "chittoor",
+      "constituencies": [
+        "Kuppam",
+        "GD Nellore"
+      ],
+      "id": 10,
+      "isAddcont": true
+    }
+  ]
+}
